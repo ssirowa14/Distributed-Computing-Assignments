@@ -1,0 +1,11 @@
+Command to run:
+	1) g++ -std=c++11 CS_CS16BTECH11030.cpp -lpthread
+	2) ./a.out
+
+Files Output:
+	1) out-log.txt		//log file
+
+How to give input:
+	give space separate values of N, K, Lambda_p, Lambda_q, Lambda_snd, Lambda_drift, Lambda_wkdrift in inp-params.txt file
+
+Report.pdf contains the report

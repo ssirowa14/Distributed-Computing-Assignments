@@ -1,0 +1,421 @@
+Server 4 Requests 0 clock synchronization from Server 0 at time 20:30:24
+Server 3 Requests 0 clock synchronization from Server 0 at time 20:30:24
+Server 0 Requests 0 clock synchronization from Server 1 at time 20:30:24
+Server 1 Requests 0 clock synchronization from Server 0 at time 20:30:24
+Server 2 Requests 0 clock synchronization from Server 0 at time 20:30:24
+Server 1 Receives 0 clock synchronization request from Server 0 at time 20:30:24
+Server 0 Receives 0 clock synchronization request from Server 4 at time 20:30:24
+Server 1 Replies 0 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Replies 0 clock synchronization request to Server 4 at time 20:30:24
+Server 0 Receives 0 clock synchronization request from Server 3 at time 20:30:24
+Server 4 Receives 0 clock synchronization from Server 0 at time 20:30:24
+Server 0 Receives 0 clock synchronization from Server 1 at time 20:30:24
+Server 4 Requests 0 clock synchronization from Server 1 at time 20:30:24
+Server 0 Requests 0 clock synchronization from Server 2 at time 20:30:24
+Server 0 Replies 0 clock synchronization request to Server 3 at time 20:30:24
+Server 2 Receives 0 clock synchronization request from Server 0 at time 20:30:24
+Server 0 Receives 0 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Receives 0 clock synchronization from Server 0 at time 20:30:24
+Server 1 Receives 0 clock synchronization request from Server 4 at time 20:30:24
+Server 2 Replies 0 clock synchronization request to Server 0 at time 20:30:24
+Server 1 Replies 0 clock synchronization request to Server 4 at time 20:30:24
+Server 3 Requests 0 clock synchronization from Server 1 at time 20:30:24
+Server 0 Receives 0 clock synchronization from Server 2 at time 20:30:24
+Server 0 Replies 0 clock synchronization request to Server 1 at time 20:30:24
+Server 4 Receives 0 clock synchronization from Server 1 at time 20:30:24
+Server 0 Receives 0 clock synchronization request from Server 2 at time 20:30:24
+Server 1 Receives 0 clock synchronization from Server 0 at time 20:30:24
+Server 1 Receives 0 clock synchronization request from Server 3 at time 20:30:24
+Server 0 Requests 0 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 0 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Requests 0 clock synchronization from Server 2 at time 20:30:24
+Server 4 Requests 0 clock synchronization from Server 2 at time 20:30:24
+Server 1 Replies 0 clock synchronization request to Server 3 at time 20:30:24
+Server 0 Replies 0 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 0 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Receives 0 clock synchronization from Server 1 at time 20:30:24
+Server 2 Receives 0 clock synchronization from Server 0 at time 20:30:24
+Server 3 Replies 0 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 0 clock synchronization from Server 3 at time 20:30:24
+Server 3 Requests 0 clock synchronization from Server 2 at time 20:30:24
+Server 2 Requests 0 clock synchronization from Server 1 at time 20:30:24
+Server 2 Replies 0 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 0 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 0 clock synchronization request from Server 4 at time 20:30:24
+Server 1 Receives 0 clock synchronization request from Server 2 at time 20:30:24
+Server 0 Requests 0 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 0 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Requests 0 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 0 clock synchronization request to Server 4 at time 20:30:24
+Server 3 Receives 0 clock synchronization request from Server 1 at time 20:30:24
+Server 4 Receives 0 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 0 clock synchronization request from Server 3 at time 20:30:24
+Server 1 Replies 0 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 0 clock synchronization from Server 1 at time 20:30:24
+Server 4 Replies 0 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 0 clock synchronization from Server 4 at time 20:30:24
+Server 3 Replies 0 clock synchronization request to Server 1 at time 20:30:24
+Server 4 Requests 0 clock synchronization from Server 3 at time 20:30:24
+Server 1 Receives 0 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 0 clock synchronization request to Server 3 at time 20:30:24
+Server 3 Receives 0 clock synchronization request from Server 4 at time 20:30:24
+Server 3 Receives 0 clock synchronization from Server 2 at time 20:30:24
+Server 2 Requests 0 clock synchronization from Server 3 at time 20:30:24
+Server 0 Requests 1 clock synchronization from Server 1 at time 20:30:24
+Server 1 Receives 1 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Requests 0 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 0 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Requests 0 clock synchronization from Server 4 at time 20:30:24
+Server 1 Replies 1 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 1 clock synchronization from Server 1 at time 20:30:24
+Server 4 Replies 0 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 0 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 0 clock synchronization request from Server 3 at time 20:30:24
+Server 3 Replies 0 clock synchronization request to Server 4 at time 20:30:24
+Server 4 Receives 0 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 0 clock synchronization request from Server 2 at time 20:30:24
+Server 0 Requests 1 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 1 clock synchronization request from Server 0 at time 20:30:24
+Server 4 Replies 0 clock synchronization request to Server 3 at time 20:30:24
+Server 1 Requests 1 clock synchronization from Server 0 at time 20:30:24
+Server 3 Receives 0 clock synchronization from Server 4 at time 20:30:24
+Server 0 Receives 1 clock synchronization request from Server 1 at time 20:30:24
+Server 4 Requests 1 clock synchronization from Server 0 at time 20:30:24
+Server 3 Replies 0 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 0 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 1 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 1 clock synchronization from Server 2 at time 20:30:24
+Server 3 Requests 1 clock synchronization from Server 0 at time 20:30:24
+Server 2 Requests 0 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 0 clock synchronization request from Server 2 at time 20:30:24
+Server 0 Requests 1 clock synchronization from Server 3 at time 20:30:24
+Server 0 Replies 1 clock synchronization request to Server 1 at time 20:30:24
+Server 3 Receives 1 clock synchronization request from Server 0 at time 20:30:24
+Server 0 Receives 1 clock synchronization request from Server 4 at time 20:30:24
+Server 1 Receives 1 clock synchronization from Server 0 at time 20:30:24
+Server 4 Replies 0 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 0 clock synchronization from Server 4 at time 20:30:24
+Server 1 Requests 1 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 1 clock synchronization request from Server 1 at time 20:30:24
+Server 0 Replies 1 clock synchronization request to Server 4 at time 20:30:24
+Server 3 Replies 1 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 1 clock synchronization request from Server 3 at time 20:30:24
+Server 0 Receives 1 clock synchronization from Server 3 at time 20:30:24
+Server 2 Requests 1 clock synchronization from Server 0 at time 20:30:24
+Server 0 Replies 1 clock synchronization request to Server 3 at time 20:30:24
+Server 0 Requests 1 clock synchronization from Server 4 at time 20:30:24
+Server 3 Receives 1 clock synchronization from Server 0 at time 20:30:24
+Server 0 Receives 1 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 1 clock synchronization request from Server 0 at time 20:30:24
+Server 4 Receives 1 clock synchronization from Server 0 at time 20:30:24
+Server 2 Replies 1 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 1 clock synchronization from Server 2 at time 20:30:24
+Server 3 Requests 1 clock synchronization from Server 1 at time 20:30:24
+Server 0 Replies 1 clock synchronization request to Server 2 at time 20:30:24
+Server 4 Requests 1 clock synchronization from Server 1 at time 20:30:24
+Server 4 Replies 1 clock synchronization request to Server 0 at time 20:30:24
+Server 2 Receives 1 clock synchronization from Server 0 at time 20:30:24
+Server 0 Receives 1 clock synchronization from Server 4 at time 20:30:24
+Server 1 Requests 1 clock synchronization from Server 3 at time 20:30:24
+Server 1 Receives 1 clock synchronization request from Server 3 at time 20:30:24
+Server 2 Requests 1 clock synchronization from Server 1 at time 20:30:24
+Server 0 Requests 2 clock synchronization from Server 1 at time 20:30:24
+Server 1 Replies 1 clock synchronization request to Server 3 at time 20:30:24
+Server 1 Receives 1 clock synchronization request from Server 4 at time 20:30:24
+Server 3 Receives 1 clock synchronization from Server 1 at time 20:30:24
+Server 3 Receives 1 clock synchronization request from Server 1 at time 20:30:24
+Server 1 Replies 1 clock synchronization request to Server 4 at time 20:30:24
+Server 3 Requests 1 clock synchronization from Server 2 at time 20:30:24
+Server 1 Receives 2 clock synchronization request from Server 0 at time 20:30:24
+Server 4 Receives 1 clock synchronization from Server 1 at time 20:30:24
+Server 2 Receives 1 clock synchronization request from Server 3 at time 20:30:24
+Server 3 Replies 1 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 1 clock synchronization from Server 3 at time 20:30:24
+Server 1 Replies 2 clock synchronization request to Server 0 at time 20:30:24
+Server 4 Requests 1 clock synchronization from Server 2 at time 20:30:24
+Server 1 Receives 1 clock synchronization request from Server 2 at time 20:30:24
+Server 0 Receives 2 clock synchronization from Server 1 at time 20:30:24
+Server 2 Replies 1 clock synchronization request to Server 3 at time 20:30:24
+Server 3 Receives 1 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 1 clock synchronization request from Server 4 at time 20:30:24
+Server 1 Requests 1 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 1 clock synchronization request from Server 1 at time 20:30:24
+Server 1 Replies 1 clock synchronization request to Server 2 at time 20:30:24
+Server 3 Requests 1 clock synchronization from Server 4 at time 20:30:24
+Server 2 Receives 1 clock synchronization from Server 1 at time 20:30:24
+Server 0 Requests 2 clock synchronization from Server 2 at time 20:30:24
+Server 4 Replies 1 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 1 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 1 clock synchronization request from Server 3 at time 20:30:24
+Server 2 Requests 1 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 1 clock synchronization request from Server 2 at time 20:30:24
+Server 2 Replies 1 clock synchronization request to Server 4 at time 20:30:24
+Server 2 Receives 2 clock synchronization request from Server 0 at time 20:30:24
+Server 4 Receives 1 clock synchronization from Server 2 at time 20:30:24
+Server 4 Replies 1 clock synchronization request to Server 3 at time 20:30:24
+Server 1 Requests 2 clock synchronization from Server 0 at time 20:30:24
+Server 3 Receives 1 clock synchronization from Server 4 at time 20:30:24
+Server 0 Receives 2 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Replies 1 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 1 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 2 clock synchronization request to Server 0 at time 20:30:24
+Server 4 Requests 1 clock synchronization from Server 3 at time 20:30:24
+Server 0 Receives 2 clock synchronization from Server 2 at time 20:30:24
+Server 3 Receives 1 clock synchronization request from Server 4 at time 20:30:24
+Server 3 Requests 2 clock synchronization from Server 0 at time 20:30:24
+Server 0 Replies 2 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 2 clock synchronization from Server 0 at time 20:30:24
+Server 0 Receives 2 clock synchronization request from Server 3 at time 20:30:24
+Server 2 Requests 1 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 1 clock synchronization request from Server 2 at time 20:30:24
+Server 0 Requests 2 clock synchronization from Server 3 at time 20:30:24
+Server 3 Replies 1 clock synchronization request to Server 4 at time 20:30:24
+Server 4 Receives 1 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 2 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Requests 2 clock synchronization from Server 2 at time 20:30:24
+Server 0 Replies 2 clock synchronization request to Server 3 at time 20:30:24
+Server 3 Receives 2 clock synchronization from Server 0 at time 20:30:24
+Server 2 Receives 2 clock synchronization request from Server 1 at time 20:30:24
+Server 4 Replies 1 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 1 clock synchronization from Server 4 at time 20:30:24
+Server 4 Requests 2 clock synchronization from Server 0 at time 20:30:24
+Server 3 Replies 2 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 2 clock synchronization request from Server 4 at time 20:30:24
+Server 0 Receives 2 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 2 clock synchronization request to Server 1 at time 20:30:24
+Server 3 Requests 2 clock synchronization from Server 1 at time 20:30:24
+Server 2 Requests 2 clock synchronization from Server 0 at time 20:30:24
+Server 1 Receives 2 clock synchronization from Server 2 at time 20:30:24
+Server 1 Receives 2 clock synchronization request from Server 3 at time 20:30:24
+Server 0 Replies 2 clock synchronization request to Server 4 at time 20:30:24
+Server 0 Requests 2 clock synchronization from Server 4 at time 20:30:24
+Server 0 Receives 2 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 2 clock synchronization from Server 0 at time 20:30:24
+Server 4 Receives 2 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Requests 2 clock synchronization from Server 3 at time 20:30:24
+Server 1 Replies 2 clock synchronization request to Server 3 at time 20:30:24
+Server 3 Receives 2 clock synchronization from Server 1 at time 20:30:24
+Server 3 Receives 2 clock synchronization request from Server 1 at time 20:30:24
+Server 0 Replies 2 clock synchronization request to Server 2 at time 20:30:24
+Server 4 Requests 2 clock synchronization from Server 1 at time 20:30:24
+Server 4 Replies 2 clock synchronization request to Server 0 at time 20:30:24
+Server 2 Receives 2 clock synchronization from Server 0 at time 20:30:24
+Server 1 Receives 2 clock synchronization request from Server 4 at time 20:30:24
+Server 0 Receives 2 clock synchronization from Server 4 at time 20:30:24
+Server 3 Requests 2 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 2 clock synchronization request from Server 3 at time 20:30:24
+Server 1 Replies 2 clock synchronization request to Server 4 at time 20:30:24
+Server 2 Requests 2 clock synchronization from Server 1 at time 20:30:24
+Server 0 Requests 3 clock synchronization from Server 1 at time 20:30:24
+Server 4 Receives 2 clock synchronization from Server 1 at time 20:30:24
+Server 1 Receives 2 clock synchronization request from Server 2 at time 20:30:24
+Server 3 Replies 2 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 2 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 2 clock synchronization request to Server 3 at time 20:30:24
+Server 3 Receives 2 clock synchronization from Server 2 at time 20:30:24
+Server 4 Requests 2 clock synchronization from Server 2 at time 20:30:24
+Server 1 Requests 2 clock synchronization from Server 4 at time 20:30:24
+Server 2 Receives 2 clock synchronization request from Server 4 at time 20:30:24
+Server 1 Replies 2 clock synchronization request to Server 2 at time 20:30:24
+Server 3 Requests 2 clock synchronization from Server 4 at time 20:30:24
+Server 2 Receives 2 clock synchronization from Server 1 at time 20:30:24
+Server 1 Receives 3 clock synchronization request from Server 0 at time 20:30:24
+Server 2 Replies 2 clock synchronization request to Server 4 at time 20:30:24
+Server 4 Receives 2 clock synchronization from Server 2 at time 20:30:24
+Server 2 Requests 2 clock synchronization from Server 3 at time 20:30:24
+Server 1 Replies 3 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 3 clock synchronization from Server 1 at time 20:30:24
+Server 3 Receives 2 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 2 clock synchronization request from Server 1 at time 20:30:24
+Server 4 Requests 2 clock synchronization from Server 3 at time 20:30:24
+Server 0 Requests 3 clock synchronization from Server 2 at time 20:30:24
+Server 3 Replies 2 clock synchronization request to Server 2 at time 20:30:24
+Server 4 Replies 2 clock synchronization request to Server 1 at time 20:30:24
+Server 2 Receives 2 clock synchronization from Server 3 at time 20:30:24
+Server 2 Receives 3 clock synchronization request from Server 0 at time 20:30:24
+Server 3 Receives 2 clock synchronization request from Server 4 at time 20:30:24
+Server 4 Receives 2 clock synchronization request from Server 3 at time 20:30:24
+Server 1 Receives 2 clock synchronization from Server 4 at time 20:30:24
+Server 2 Replies 3 clock synchronization request to Server 0 at time 20:30:24
+Server 4 Replies 2 clock synchronization request to Server 3 at time 20:30:24
+Server 3 Receives 2 clock synchronization from Server 4 at time 20:30:24
+Server 1 Requests 3 clock synchronization from Server 0 at time 20:30:24
+Server 2 Requests 2 clock synchronization from Server 4 at time 20:30:24
+Server 3 Replies 2 clock synchronization request to Server 4 at time 20:30:24
+Server 0 Receives 3 clock synchronization from Server 2 at time 20:30:24
+Server 0 Receives 3 clock synchronization request from Server 1 at time 20:30:24
+Server 4 Receives 2 clock synchronization from Server 3 at time 20:30:24
+Server 4 Receives 2 clock synchronization request from Server 2 at time 20:30:24
+Server 3 Requests 3 clock synchronization from Server 0 at time 20:30:24
+Server 0 Requests 3 clock synchronization from Server 3 at time 20:30:24
+Server 4 Replies 2 clock synchronization request to Server 2 at time 20:30:24
+Server 0 Replies 3 clock synchronization request to Server 1 at time 20:30:24
+Server 4 Requests 3 clock synchronization from Server 0 at time 20:30:24
+Server 2 Receives 2 clock synchronization from Server 4 at time 20:30:24
+Server 1 Receives 3 clock synchronization from Server 0 at time 20:30:24
+Server 0 Receives 3 clock synchronization request from Server 3 at time 20:30:24
+Server 3 Receives 3 clock synchronization request from Server 0 at time 20:30:24
+Server 2 Requests 3 clock synchronization from Server 0 at time 20:30:24
+Server 1 Requests 3 clock synchronization from Server 2 at time 20:30:24
+Server 0 Replies 3 clock synchronization request to Server 3 at time 20:30:24
+Server 2 Receives 3 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Receives 3 clock synchronization from Server 0 at time 20:30:24
+Server 0 Receives 3 clock synchronization request from Server 4 at time 20:30:24
+Server 3 Replies 3 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 3 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 3 clock synchronization request to Server 1 at time 20:30:24
+Server 3 Requests 3 clock synchronization from Server 1 at time 20:30:24
+Server 0 Replies 3 clock synchronization request to Server 4 at time 20:30:24
+Server 1 Receives 3 clock synchronization from Server 2 at time 20:30:24
+Server 0 Receives 3 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 3 clock synchronization from Server 0 at time 20:30:24
+Server 1 Receives 3 clock synchronization request from Server 3 at time 20:30:24
+Server 0 Requests 3 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 3 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Requests 3 clock synchronization from Server 3 at time 20:30:24
+Server 0 Replies 3 clock synchronization request to Server 2 at time 20:30:24
+Server 4 Requests 3 clock synchronization from Server 1 at time 20:30:24
+Server 1 Replies 3 clock synchronization request to Server 3 at time 20:30:24
+Server 2 Receives 3 clock synchronization from Server 0 at time 20:30:24
+Server 3 Receives 3 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Receives 3 clock synchronization from Server 1 at time 20:30:24
+Server 1 Receives 3 clock synchronization request from Server 4 at time 20:30:24
+Server 4 Replies 3 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 3 clock synchronization from Server 4 at time 20:30:24
+Server 3 Replies 3 clock synchronization request to Server 1 at time 20:30:24
+Server 2 Requests 3 clock synchronization from Server 1 at time 20:30:24
+Server 3 Requests 3 clock synchronization from Server 2 at time 20:30:24
+Server 1 Receives 3 clock synchronization from Server 3 at time 20:30:24
+Server 2 Receives 3 clock synchronization request from Server 3 at time 20:30:24
+Server 0 Requests 4 clock synchronization from Server 1 at time 20:30:24
+Server 1 Requests 3 clock synchronization from Server 4 at time 20:30:24
+Server 2 Replies 3 clock synchronization request to Server 3 at time 20:30:24
+Server 4 Receives 3 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Receives 3 clock synchronization from Server 2 at time 20:30:24
+Server 4 Replies 3 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Replies 3 clock synchronization request to Server 4 at time 20:30:24
+Server 3 Requests 3 clock synchronization from Server 4 at time 20:30:24
+Server 1 Receives 3 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 3 clock synchronization from Server 1 at time 20:30:24
+Server 1 Receives 3 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 3 clock synchronization request from Server 3 at time 20:30:24
+Server 1 Replies 3 clock synchronization request to Server 2 at time 20:30:24
+Server 4 Requests 3 clock synchronization from Server 2 at time 20:30:24
+Server 1 Requests 4 clock synchronization from Server 0 at time 20:30:24
+Server 2 Receives 3 clock synchronization from Server 1 at time 20:30:24
+Server 1 Receives 4 clock synchronization request from Server 0 at time 20:30:24
+Server 4 Replies 3 clock synchronization request to Server 3 at time 20:30:24
+Server 2 Receives 3 clock synchronization request from Server 4 at time 20:30:24
+Server 0 Receives 4 clock synchronization request from Server 1 at time 20:30:24
+Server 3 Receives 3 clock synchronization from Server 4 at time 20:30:24
+Server 2 Requests 3 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 3 clock synchronization request to Server 4 at time 20:30:24
+Server 4 Receives 3 clock synchronization from Server 2 at time 20:30:24
+Server 3 Receives 3 clock synchronization request from Server 2 at time 20:30:24
+Server 3 Requests 4 clock synchronization from Server 0 at time 20:30:24
+Server 1 Replies 4 clock synchronization request to Server 0 at time 20:30:24
+Server 0 Receives 4 clock synchronization from Server 1 at time 20:30:24
+Server 4 Requests 3 clock synchronization from Server 3 at time 20:30:24
+Server 3 Replies 3 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 3 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 3 clock synchronization request from Server 4 at time 20:30:24
+Server 0 Requests 4 clock synchronization from Server 2 at time 20:30:24
+Server 0 Replies 4 clock synchronization request to Server 1 at time 20:30:24
+Server 2 Receives 4 clock synchronization request from Server 0 at time 20:30:24
+Server 0 Receives 4 clock synchronization request from Server 3 at time 20:30:24
+Server 1 Receives 4 clock synchronization from Server 0 at time 20:30:24
+Server 2 Requests 3 clock synchronization from Server 4 at time 20:30:24
+Server 3 Replies 3 clock synchronization request to Server 4 at time 20:30:24
+Server 4 Receives 3 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 3 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 4 clock synchronization request to Server 0 at time 20:30:24
+Server 1 Requests 4 clock synchronization from Server 2 at time 20:30:24
+Server 0 Receives 4 clock synchronization from Server 2 at time 20:30:24
+Server 0 Replies 4 clock synchronization request to Server 3 at time 20:30:24
+Server 2 Receives 4 clock synchronization request from Server 1 at time 20:30:24
+Server 4 Replies 3 clock synchronization request to Server 2 at time 20:30:24
+Server 4 Requests 4 clock synchronization from Server 0 at time 20:30:24
+Server 2 Receives 3 clock synchronization from Server 4 at time 20:30:24
+Server 0 Receives 4 clock synchronization request from Server 4 at time 20:30:24
+Server 3 Receives 4 clock synchronization from Server 0 at time 20:30:24
+Server 0 Requests 4 clock synchronization from Server 3 at time 20:30:24
+Server 2 Replies 4 clock synchronization request to Server 1 at time 20:30:24
+Server 3 Receives 4 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Receives 4 clock synchronization from Server 2 at time 20:30:24
+Server 2 Requests 4 clock synchronization from Server 0 at time 20:30:24
+Server 0 Replies 4 clock synchronization request to Server 4 at time 20:30:24
+Server 3 Requests 4 clock synchronization from Server 1 at time 20:30:24
+Server 0 Receives 4 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 4 clock synchronization from Server 0 at time 20:30:24
+Server 1 Receives 4 clock synchronization request from Server 3 at time 20:30:24
+Server 3 Replies 4 clock synchronization request to Server 0 at time 20:30:24
+Server 1 Requests 4 clock synchronization from Server 3 at time 20:30:24
+Server 0 Receives 4 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 4 clock synchronization request from Server 1 at time 20:30:24
+Server 0 Replies 4 clock synchronization request to Server 2 at time 20:30:24
+Server 1 Replies 4 clock synchronization request to Server 3 at time 20:30:24
+Server 4 Requests 4 clock synchronization from Server 1 at time 20:30:24
+Server 2 Receives 4 clock synchronization from Server 0 at time 20:30:24
+Server 0 Requests 4 clock synchronization from Server 4 at time 20:30:24
+Server 3 Replies 4 clock synchronization request to Server 1 at time 20:30:24
+Server 4 Receives 4 clock synchronization request from Server 0 at time 20:30:24
+Server 1 Receives 4 clock synchronization from Server 3 at time 20:30:24
+Server 2 Requests 4 clock synchronization from Server 1 at time 20:30:24
+Server 4 Replies 4 clock synchronization request to Server 0 at time 20:30:24
+Server 1 Requests 4 clock synchronization from Server 4 at time 20:30:24
+Server 0 Receives 4 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 4 clock synchronization request from Server 1 at time 20:30:24
+Server 4 Replies 4 clock synchronization request to Server 1 at time 20:30:24
+Server 1 Receives 4 clock synchronization from Server 4 at time 20:30:24
+Server 3 Receives 4 clock synchronization from Server 1 at time 20:30:24
+Server 1 Receives 4 clock synchronization request from Server 4 at time 20:30:24
+Server 3 Requests 4 clock synchronization from Server 2 at time 20:30:24
+Server 1 Replies 4 clock synchronization request to Server 4 at time 20:30:24
+Server 2 Receives 4 clock synchronization request from Server 3 at time 20:30:24
+Server 1 Receives 4 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 4 clock synchronization from Server 1 at time 20:30:24
+Server 2 Replies 4 clock synchronization request to Server 3 at time 20:30:24
+Server 1 Replies 4 clock synchronization request to Server 2 at time 20:30:24
+Server 4 Requests 4 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 4 clock synchronization from Server 1 at time 20:30:24
+Server 2 Requests 4 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 4 clock synchronization request from Server 2 at time 20:30:24
+Server 3 Replies 4 clock synchronization request to Server 2 at time 20:30:24
+Server 2 Receives 4 clock synchronization from Server 3 at time 20:30:24
+Server 3 Receives 4 clock synchronization from Server 2 at time 20:30:24
+Server 2 Receives 4 clock synchronization request from Server 4 at time 20:30:24
+Server 2 Requests 4 clock synchronization from Server 4 at time 20:30:24
+Server 3 Requests 4 clock synchronization from Server 4 at time 20:30:24
+Server 2 Replies 4 clock synchronization request to Server 4 at time 20:30:24
+Server 4 Receives 4 clock synchronization request from Server 2 at time 20:30:24
+Server 4 Receives 4 clock synchronization from Server 2 at time 20:30:24
+Server 4 Requests 4 clock synchronization from Server 3 at time 20:30:24
+Server 4 Replies 4 clock synchronization request to Server 2 at time 20:30:24
+Server 3 Receives 4 clock synchronization request from Server 4 at time 20:30:24
+Server 2 Receives 4 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 4 clock synchronization request from Server 3 at time 20:30:24
+Server 4 Replies 4 clock synchronization request to Server 3 at time 20:30:24
+Server 3 Replies 4 clock synchronization request to Server 4 at time 20:30:24
+Server 3 Receives 4 clock synchronization from Server 4 at time 20:30:24
+Server 4 Receives 4 clock synchronization from Server 3 at time 20:30:24
+
+
+
+stats of Time at Each Server after every round. Each row contains tab separated entries. Entry(i,j) denotes time at server i after round j. i denotes row number and j denotes column number
+
+
+1581778824815737550	1581778824834730940	1581778824859718361	1581778824882766817	1581778824907000764	
+1581778824822117963	1581778824846322573	1581778824869982779	1581778824887483632	1581778824908897611	
+1581778824830094818	1581778824853726727	1581778824874050738	1581778824899631213	1581778824931194345	
+1581778824824827489	1581778824848752982	1581778824872152268	1581778824890297759	1581778824931320418	
+1581778824822885551	1581778824852393249	1581778824871880787	1581778824896989528	1581778824936649676	
+
+
+
+(Mean, Variance)
+
+Round 0 (1581778824823132672.000000 , 3462758.400000)
+Round 1 (1581778824847185408.000000 , 5326745.600000)
+Round 2 (1581778824869556992.000000 , 3935436.800000)
+Round 3 (1581778824891433728.000000 , 5501184.000000)
+Round 4 (1581778824923012608.000000 , 12050688.000000)
